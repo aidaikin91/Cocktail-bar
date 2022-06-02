@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dosis&family=Raleway:ital,wght@1,300&display=swap');
+body{
+   background-image: url('https://media.istockphoto.com/photos/cement-shelf-and-floor-on-concrete-background-for-design-picture-id1345203265?b=1&k=20&m=1345203265&s=170667a&w=0&h=0O3CZjm-yMiHJdBBNM1AhsuPplXWXeprvkmnif4slZw=');
+   width: 100%;
+   background-attachment: fixed;
+   font-family: 'Bebas Neue', cursive;
+   color: #b4b912;
+   font-size: 15px; 
+   
+}
+#output{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+
+}
+
+#input{
+   width: 120px;
+   height: 25px;
+   border-radius: 50px;
+   border: 2px solid #b4b912;
+}
+#searchBtn{
+
+      width: 60px;
+      height: 25px;
+      border-radius: 50px;
+      border: 2px solid #b4b912; 
+}
+
+.ingredient_card{
+width: 300px;
+height: 400px;
+background-color: blueviolet;
+text-align: center;
+font-family: 'Bebas Neue', cursive;
+font-size: 10px;
+
+}
